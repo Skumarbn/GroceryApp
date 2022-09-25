@@ -1,0 +1,22 @@
+[
+  {
+    "item": "Banana",
+    "id": 1,
+    "target": "2",
+	"amazon": "2.5",
+	"safeway": "4",
+	"savemart": "1.5",
+	"walmart": "2.4",
+	"wholefoods": "5.4", 
+  },
+  {
+  "item": "Apple",
+    "id": 2,
+    "target": "2",
+	"amazon": "2.5",
+	"safeway": "4",
+	"savemart": "1.5",
+	"walmart": "2.4",
+	"wholefoods": "2.4",
+  }
+  ]
